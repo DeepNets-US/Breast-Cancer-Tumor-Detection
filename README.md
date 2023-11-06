@@ -32,6 +32,10 @@ This notebook covers the following key aspects:
 
 ## Visualizations
 
+![Feature Correlation with Target Column](https://github.com/DeepNets-US/Breast-Cancer-Tumor-Detection/assets/118154709/5c34b446-2ea9-4158-91db-e2facae98346)
+
+![Class Distribution Pie Chart](https://github.com/DeepNets-US/Breast-Cancer-Tumor-Detection/assets/118154709/d8973660-eb08-4361-abb9-4c133703147a)
+
 The "Data Visualization Charts" folder within this repository contains a collection of images showcasing the results of data analysis and model performance. These visual representations provide a clear and insightful view of the breast cancer dataset and the model's classification results.
 
 ### Contents
